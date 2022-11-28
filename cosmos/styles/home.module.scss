@@ -1,0 +1,11 @@
+.section {
+    height: 100vh;
+    padding: 2.1429rem 6.8571rem;
+    box-sizing: border-box;
+    min-height: 600px;
+
+    &Main {
+        background: url("../img/bg-screen-1.jpg") center center no-repeat;
+        background-size: cover;
+    }
+}
